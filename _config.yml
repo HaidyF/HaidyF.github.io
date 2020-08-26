@@ -1,11 +1,11 @@
 # Site settings
-author: Haidy  Farahat
-title: 
+author: Haidy Farahat
+title: Software Engineering
 header-img: img/home-bg.png
 email: haidyfarahat@gmail.com
-copyright_name: Haidy  Farahat
+copyright_name: Haidy Farahat
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HaidyF
