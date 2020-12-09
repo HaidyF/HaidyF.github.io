@@ -1,0 +1,21 @@
+---
+layout: post
+title:      "Next Read!"
+date:       2020-12-09 14:03:52 +0000
+permalink:  next_read
+---
+
+
+We are half way through, it feels so surreal. For the second project build I have decided to build an app where users can create instances of books they read, along with a review of the book and their rating of this book.
+
+The first thing a user will interact with will be the home page, where the user is welcomed, asked to Login and given the option to create a new book entry or view the past entries persisted in the database.
+
+I started building the app by using the Corneal gem, which was great for building the skeleton for my project. I then customized it according to the needs for my app. I needed two models, three controller and two view folders; one for the user authentication and the other for the restful routes for the book entries.
+
+I started shotgun and it was up and running! But none of the routes worked, after researching and playing around a bit in the config.ru file I was able to get the routes to worked. I went on and created the routes in the books controller and simultaneously working on the view files that would be be rendered.
+
+After finishing the books controller and it’s related views, I went ahead and started the users controller, worked my way through the routes and the view files needed and making sure that my models where expecting uniqueness along with validating presence of entry criteria. I also equipped my User Model with a password encrypted to salt and hash user passwords for further protection.
+
+The last two steps in the project was the a logic that would ensure that only logged in users can edit and delete their own entries and to create my flash error messages, with that done the app was up and running!
+
+looking forward to the next project!
