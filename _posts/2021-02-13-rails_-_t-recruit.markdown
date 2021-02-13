@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails - T-Recruit"
-date:       2021-02-13 20:27:59 +0000
+date:       2021-02-13 15:27:59 -0500
 permalink:  rails_-_t-recruit
 ---
 
