@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My JS Project "
-date:       2021-04-14 05:38:27 +0000
+date:       2021-04-14 01:38:28 -0400
 permalink:  my_js_project
 ---
 
@@ -23,7 +23,7 @@ Now with my GET fetch request completed, I went ahead and created my second fetc
 
 Another bump in the road I had here which needed some google was that my create function was working but the new project would only show when the page is refreshed. After some googling I was able to find the location.reload() method which took care of this problem. 
 
-Only two CRUD actions were required for this project, but I felt like the app would not be complete without the option to DELETE instance. I decided to add the delete functionality and there went my third fetch request; a DELETE method request which surprisingly took the longest time to get to work, I added the event listener and handled removing the project from the DOM and it was still not working. What was missing was my function which iterates over the projects and removes the one targeted.
+Only two CRUD actions were required for this project, but I felt like the app would not be complete without the option to DELETE instance. I decided to add the delete functionality and there went my third fetch request; a DELETE method request; I added the event listener using ONCLICK in my HTML tag, and handled removing the project from the DOM. 
 
 With all three fetch requests functioning, I have been feeling a little more comfortable and trying to figure out the CSS for my app and trying to make it look more appealing. Even though I know that the app's design will need some improvement, I am enjoying this process and will probably be coming back and making all my apps look more sophisticated.
 
