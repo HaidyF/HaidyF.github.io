@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Next Read!"
-date:       2020-12-09 14:03:52 +0000
+title:      "Next Read! - Sinatra"
+date:       2020-12-09 09:03:53 -0500
 permalink:  next_read
 ---
 
