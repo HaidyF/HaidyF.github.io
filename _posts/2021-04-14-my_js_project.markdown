@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My JS Project "
+title:      "My Portfolio Project - JavaScript "
 date:       2021-04-14 01:38:28 -0400
 permalink:  my_js_project
 ---
