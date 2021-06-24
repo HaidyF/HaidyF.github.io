@@ -10,7 +10,7 @@ Props allow us to pass data between components, props make our components more d
 
 Props can easily be passed down from a Parent Component to a Child Component, but not the other way around. That’s why the communication from the Child component to the Parent component is a little more complicated. So what if we want to pass data from the Child component to the Parent component?
 
-**Callback functions! **
+CALLBACK FUNCTIONS! 
 
 Functions can be passed around from a Child component to a Parent component, the Child component can use these functions to update the Parent component’s state. In other words, we pass the data from the Child component to the Parent component as an argument into a callback function from the Parent component. The Child component in turn changes the state in the Parent component. When the state is changed, the Parent component passes the information down again as props to the Child component.
 
