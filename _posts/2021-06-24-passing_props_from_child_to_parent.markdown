@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Passing Props From Child To Parent"
-date:       2021-06-24 09:53:33 +0000
+date:       2021-06-24 05:53:34 -0400
 permalink:  passing_props_from_child_to_parent
 ---
 
@@ -29,7 +29,8 @@ So to pass data from the Child component to the Parent component we follow these
 5. Lastly, we can use the props to execute the callback function in the Parent Component.
 
 
-That's basically how we can pass data from a Child component to a Parent compont if we are not using any state management libraries like Redux .
+That's basically how we can pass data from a Child component to a Parent compont if we are not using any state management libraries like Redux. Take a look at the example code below;
+![](https://www.codegrepper.com/codeimages/pass-data-from-child-component-to-parent-component-react.png)
 
 
 
